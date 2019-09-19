@@ -1,0 +1,10 @@
+C:\Projects\OrleansDemo\PracticalOrleans\src\Grains\bin\Debug\netstandard2.0\Grains.deps.json
+C:\Projects\OrleansDemo\PracticalOrleans\src\Grains\bin\Debug\netstandard2.0\Grains.dll
+C:\Projects\OrleansDemo\PracticalOrleans\src\Grains\bin\Debug\netstandard2.0\Grains.pdb
+C:\Projects\OrleansDemo\PracticalOrleans\src\Grains\obj\Debug\netstandard2.0\codegen\Grains.csproj.CoreCompileInputs.cache
+C:\Projects\OrleansDemo\PracticalOrleans\src\Grains\obj\Debug\netstandard2.0\codegen\Grains.AssemblyInfoInputs.cache
+C:\Projects\OrleansDemo\PracticalOrleansSimpleSample\src\Grains\bin\Debug\netstandard2.0\Grains.deps.json
+C:\Projects\OrleansDemo\PracticalOrleansSimpleSample\src\Grains\bin\Debug\netstandard2.0\Grains.dll
+C:\Projects\OrleansDemo\PracticalOrleansSimpleSample\src\Grains\bin\Debug\netstandard2.0\Grains.pdb
+C:\Projects\OrleansDemo\PracticalOrleansSimpleSample\src\Grains\obj\Debug\netstandard2.0\codegen\Grains.csproj.CoreCompileInputs.cache
+C:\Projects\OrleansDemo\PracticalOrleansSimpleSample\src\Grains\obj\Debug\netstandard2.0\codegen\Grains.AssemblyInfoInputs.cache
